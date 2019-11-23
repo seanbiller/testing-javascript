@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Yeti",
+        "location": "North Pole",
+        "scaryStatement": ["global warming"],
+        "lastMessage": 1544663410
+    },
+
+    {
+        "name": "Dave",
+        "location": "IRS Building",
+        "scaryStatement": ["you could be audited by the IRS"],
+        "lastMessage": 1544663410
+
+    },
+
+    {
+        "name": "Gordan Ramsay",
+        "location": "UK",
+        "scaryStatement": ["its fucking raaaaaww!!!"],
+        "lastMessage": 1544663410
+
+    }
+]
